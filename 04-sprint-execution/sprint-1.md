@@ -35,7 +35,7 @@ Establish foundational platform capabilities and delivery readiness across teams
 
 ## Dependencies
 
-* API readiness from Team Alpha for Dev Team 1
+* API readiness from Dev Team 1 for Dev Team 2
 * Environment availability from The Engineers
 
 ---
